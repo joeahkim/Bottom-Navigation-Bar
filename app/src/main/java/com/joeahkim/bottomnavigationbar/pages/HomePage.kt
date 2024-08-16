@@ -17,7 +17,7 @@ fun HomePage(modifier: Modifier = Modifier) {
     Column (
         modifier = modifier
             .fillMaxSize()
-            .background(Color.LightGray),
+            .background(Color(0xFF488C9B)),
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ){
